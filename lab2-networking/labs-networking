@@ -1,0 +1,7 @@
+# Lab 2: Networking Tools and Diagnostics
+
+## Objectives
+- Understand basic networking commands in Linux
+- Diagnose connectivity issues using CLI tools
+- Interpret outputs from ping, traceroute, netstat, ss, and ip
+- Practice troubleshooting with simulated scenarios
